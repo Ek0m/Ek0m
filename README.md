@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a logistic app**
 
-- 🌱 I’m currently learning **TypeScript and Three.js**
+- 🌱 I’m currently learning **TypeScript, Three.js and Unity**
 
 - 👯 I’m looking to collaborate on **projects and works**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://blog-webapp-kappa.vercel.app/](https://blog-webapp-kappa.vercel.app/)
 
-- 💬 Ask me about **react, python and sanity**
+- 💬 Ask me about **react, unity, sanity and data analysis with python**
 
 - 📫 How to reach me **ekomnkanga@yahoo.com**
 
