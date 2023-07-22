@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **backend services**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-app-rho-bay.vercel.app/](https://portfolio-app-rho-bay.vercel.app/)
+- 👨‍💻 All of my projects are available at repo
 
 - 📝 I regularly write articles on [https://blog-webapp-kappa.vercel.app/](https://blog-webapp-kappa.vercel.app/)
 
