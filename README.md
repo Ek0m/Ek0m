@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at repo
 
-- 💬 Ask me about **react, unity, sanity and data analysis with python**
+- 💬 Ask me about **react, unity, sanity and python programming**
 
 - 📫 How to reach me **ekomnkanga@yahoo.com**
 
