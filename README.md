@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at repo
 
-- 📝 I regularly write articles on [https://blog-webapp-kappa.vercel.app/](https://blog-webapp-kappa.vercel.app/)
-
 - 💬 Ask me about **react, unity, sanity and data analysis with python**
 
 - 📫 How to reach me **ekomnkanga@yahoo.com**
