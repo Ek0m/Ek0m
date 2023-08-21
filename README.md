@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekomabasi Nkanga</h1>
 <h3 align="center">A developer that enjoys building softwares</h3>
 
-- 🔭 I’m currently working on **a logistic app**
+- 🔭 I’m currently working on **PaperWallet**
 
 - 🌱 I’m currently learning **TypeScript, Three.js and Unity**
 
