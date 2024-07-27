@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekomabasi Nkanga</h1>
 <h3 align="center">A developer that enjoys building softwares</h3>
 
-- 🔭 I’m currently working on **PaperWallet & a food company**
+- 🔭 I’m currently working on **a transit software**
 
 - 🌱 I’m currently learning **TypeScript, Three.js and Unity**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, unity, sanity and python programming**
 
-- 📫 How to reach me **ekomnkanga@yahoo.com**
+- 📫 How to reach me **nkangaekom02@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1AdbBEI1hbMloJx7H9YF2RDqoIu8plsKD4kV54pQmJ6A/edit?pli=1](https://docs.google.com/document/d/1AdbBEI1hbMloJx7H9YF2RDqoIu8plsKD4kV54pQmJ6A/edit?pli=1)
 
