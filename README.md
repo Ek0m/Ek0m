@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **projects and works**
 
-- 🤝 I’m looking for help with **backend services**
-
 - 👨‍💻 All of my projects are available at repo
 
 - 💬 Ask me about **react, unity, sanity and python programming**
