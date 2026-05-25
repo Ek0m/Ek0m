@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **nkangaekom02@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AdbBEI1hbMloJx7H9YF2RDqoIu8plsKD4kV54pQmJ6A/edit?pli=1](https://docs.google.com/document/d/1AdbBEI1hbMloJx7H9YF2RDqoIu8plsKD4kV54pQmJ6A/edit?pli=1)
 
 - ⚡ Fun fact **5! = 120. This is true as mathematician and a programmer**
 
